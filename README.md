@@ -1,4 +1,4 @@
-# 🚀 [Vaibhav SOnawane] - Personal Portfolio
+# 🚀 [Vaibhav Sonawane] - Personal Portfolio
 
 A clean, responsive personal portfolio website built with pure HTML, CSS, and JavaScript. 
 This project showcases my skills, projects, and resume in a fast, lightweight, and accessible format without the overhead of heavy frameworks.
