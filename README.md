@@ -1,4 +1,4 @@
-# 🚀 [Your Name] - Personal Portfolio
+# 🚀 [Vaibhav SOnawane] - Personal Portfolio
 
 A clean, responsive personal portfolio website built with pure HTML, CSS, and JavaScript. 
 This project showcases my skills, projects, and resume in a fast, lightweight, and accessible format without the overhead of heavy frameworks.
@@ -6,8 +6,7 @@ This project showcases my skills, projects, and resume in a fast, lightweight, a
 ---
 
 ## 📸 Demo / Live Link  
-🔗 **Live Preview:**  
-📂 **Repository Link:** https://github.com/
+📂 **Repository Link:** [https://github.com/](vaibhavsonawane435/Personal-Portfolio-Website.git)
 
 ---
 
@@ -37,7 +36,7 @@ Since this project relies on standard web technologies, you do not need to insta
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/portfolio.git](https://github.com/yourusername/portfolio.git)
+git clone https://github.com/vaibhavsonawane435/Personal-Portfolio-Website.git
 
 
 
